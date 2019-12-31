@@ -5,4 +5,4 @@ The controls for player A is *w and s* and the controls for player B is *up and 
 
 # Example Screenshot
 
-![screenshot](https://ibb.co/hm4yQM9)
+![screenshot](https://i.ibb.co/QKTfScQ/example-SS.png)
